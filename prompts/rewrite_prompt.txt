@@ -1,0 +1,4 @@
+Rewrite the following passage in simpler language, while preserving the original meaning.
+
+Text:
+{{input}}
