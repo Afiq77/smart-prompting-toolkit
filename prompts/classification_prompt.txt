@@ -1,0 +1,6 @@
+Classify the sentiment of the following text as Positive, Neutral, or Negative.
+
+Text:
+{{input}}
+
+Sentiment:
