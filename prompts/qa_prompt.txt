@@ -1,0 +1,7 @@
+You are a knowledgeable assistant. Use the context below to answer the question that follows.
+
+Context:
+{{input}}
+
+Question: What is the key information provided above?
+Answer:
